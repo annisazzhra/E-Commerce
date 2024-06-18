@@ -1,6 +1,6 @@
 [
   {"id": 1, "name": "Product 1", "image": "https://github.com/annisazzhra/E-Commerce/blob/main/183022c0-a38e-42f8-8397-65e0ebeabbf6.jpg", "price": "250"},
-  {"id": 2, "name": "Product 2", "image": "https://github.com/annisazzhra/E-Commerce/blob/main/Batik%20Lasem.png", "price": "200"},
+  {"id": 2, "name": "Product 2", "image": "https://github.com/annisazzhra/E-Commerce/blob/main/53e1a138-2b33-429b-90a0-6d21f9156147.jpg", "price": "200"},
   {"id": 3, "name": "Product 3", "image": "https://github.com/annisazzhra/E-Commerce/blob/main/Batik%20Nitik.png", "price": "150"},
   {"id": 4, "name": "Product 4", "image": "https://github.com/annisazzhra/E-Commerce/blob/main/Batik%20Tujuh%20Rupa.png", "price": "200"}
 ]
