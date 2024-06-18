@@ -1,22 +1,26 @@
 [
   {
-    "baju": "Batik Kawung, Kutu Baru",
-    "asal": "Yogyakarta",
-    "imageId": "Batik Kawung"
+    "id": 1,
+    "name": "Product 1",
+    "image": "Batik Kawung"
+    "price": "250"
   },
   {
-    "baju": "Batik Lasem, Kutu Baru",
-    "asal": "Jawa Tengah",
-    "imageId": "Batik Lasem"
+    "id": 2,
+    "name": "Product 2",
+    "image": "Batik Lasem"
+    "price": "200"
   },
   {
-    "baju": "Batik Nitik, Kutu Baru",
-    "asal": "Yogyakarta",
-    "imageId": "Batik Nitik"
+    "id": 1,
+    "name": "Product 3",
+    "image": "Batik Nitik"
+    "price": "150"
   },
   {
-    "baju": "Batik Tujuh Rupa, Kutu Baru",
-    "asal": "Pekalongan",
-    "imageId": "Batik Tujuh Rupa"
+    "id": 4,
+    "name": "Product 4",
+    "image": "Batik Tujuh Rupa"
+    "price": "200"
   }
 ]
