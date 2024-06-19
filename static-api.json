@@ -1,6 +1,6 @@
 [
   {"id": 1, "name": "Product 1", "image": "https://github.com/annisazzhra/E-Commerce/blob/main/Batik%20Kawung.png", "price": "250"},
   {"id": 2, "name": "Product 2", "image": "https://github.com/annisazzhra/E-Commerce/blob/main/Batik%20Lasem.png", "price": "200"},
-  {"id": 3, "name": "Product 3", "image": "https://images.app.goo.gl/8APYrQs9qgwfsoDD7", "price": "150"},
+  {"id": 3, "name": "Product 3", "image": "https://github.com/annisazzhra/E-Commerce/blob/main/Batik%20Nitik.png", "price": "150"},
   {"id": 4, "name": "Product 4", "image": "https://images.app.goo.gl/JfLa8H4QeQTGPY77A", "price": "200"}
 ]
